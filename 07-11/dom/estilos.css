@@ -3,6 +3,7 @@ body{
 	font-family: Arial;
 }
 
+
 .contenedor{
 	width:400px;
 	padding: 20px;
@@ -20,4 +21,12 @@ body{
 .naranja{
 	background: #f9a03f;
 
+}
+
+/*#negrita{
+	font-weight :bold;
+}*/
+
+#primeraCaja{
+	background-color: grey;
 }
